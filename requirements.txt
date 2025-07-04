@@ -3,3 +3,4 @@ PyPDF2
 python-dotenv
 docx2txt
 langchain_google_genai
+google-generativeai>=0.3.2
